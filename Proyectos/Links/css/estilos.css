@@ -70,7 +70,7 @@ body
         .link
         {
             color: black;
-            border: 3px solid gold;
+            border: 3px solid black;
             border-radius: 10px;
             text-align: center;
             display: block;
@@ -82,15 +82,19 @@ body
             transition: 0.2 ease all;
             box-shadow:
                 1px 1px 0px 0px black, 2px 2px 0px 0px black, 3px 3px 0px 0px black,
-                4px 4px 0px 0px black, 5px 5px 0px 0px black,
+                4px 4px 0px 0px black, 5px 5px 0px 0px black
             ;
+
+            transform: translate(-5px, -5px);
 
             &:hover
             {
                 color: #fff;
+                box-shadow: 0px 0px 0px 0px;
+                transform: translate(0px, 0px);
             }
 
-            &.website-hover
+            &.website:hover
             {
                 background: orange;
                 color: #000;
@@ -98,22 +102,22 @@ body
 
             &.youtube:hover
             {
-                background: orange;
+                background: red;
             }
 
             &.facebook:hover
             {
-                background: orange;
+                background: blue;
             }
 
-            &.website-hover
+            &.twitter:hover
             {
-                background: orange;
+                background: cyan;
             }
 
-            &.website-hover
+            &.instagram:hover
             {
-                background: orange;
+                background: purple;
             }
         }
     }
