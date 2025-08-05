@@ -2,4 +2,4 @@
 
 ### _En esta sección vamos a estar creando el primer proyecto utilizando HTML y CSS dentro de este curso._
 
-**_Link de Prueba:_** file:///C:/Users/mars_/Pagina_de_enlaces_personales/Proyectos/index.html
+**_Link de Prueba:_** ```**_"file:///C:/Users/mars_/Pagina_de_enlaces_personales/Proyectos/index.html"_**```
