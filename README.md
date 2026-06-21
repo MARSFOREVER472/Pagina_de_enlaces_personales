@@ -1,4 +1,4 @@
-# **_Pagina_de_enlaces_personales (Linktree)_**
+# **_Pagina_de_enlaces_personales (```Linktree```)_**
 
 ## **_Dentro de esta sección vamos a estar creando nuestro primer proyecto utilizando solamente los archivos con extensiones HTML y CSS dentro de este curso!_**
 
